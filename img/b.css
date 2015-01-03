@@ -1,0 +1,35 @@
+a.b     {
+	font-size : 10px;
+	color: #4A53AE;
+	font-family: Verdana, Arial;
+	text-decoration: underline;
+	text-transform : none;
+	font-weight : bold;
+}
+html{
+	   overflow-x: hidden;
+}
+body{
+		background-color: #C6DBEC;
+		overflow-x: hidden;
+}
+#mycontent{
+		text-align: justify;
+		font-weight: bold;
+		padding: 40px;
+}
+a.b:link   { 
+		color: #4A53AE; 
+		text-decoration: underline; 
+}
+a.b:visited {
+		color: #4A53AE; 
+		text-decoration: underline; 
+}
+a.b:hover   { 
+		color: #FF3300; 
+		text-decoration: underline;
+}
+img.myimage{
+		cursor: pointer;
+}
